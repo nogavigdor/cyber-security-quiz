@@ -139,19 +139,10 @@ const questionsStock=[
 
         moreInfo: "Every year, roughly 7 million adults 65 and older fall victim to senior scams, according to data from Comparitech. The best way to avoid losing money or confidential information to a scammer is by learning to recognize the different types of fraud and when you may be the target."
     
-    }
-  
-    
-    
+    }  
 
 
 ];
-
-
-
-
-
-
 
 
 
